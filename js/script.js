@@ -55,7 +55,7 @@ function renderTotal() {
 }
 
 checkoutButton.addEventListener('click', () => {
-    const whatsappURL = `https://wa.me/SEU_NUMERO?text=Quero alugar os seguintes equipamentos:%0A${selectedEquipments.map(item => `${item.name} - R$ ${item.price.toFixed(2)}`).join('%0A')}`;
+    const whatsappURL = `https://wa.me/5561982902177?text=Quero alugar os seguintes equipamentos:%0A${selectedEquipments.map(item => `${item.name} - R$ ${item.price.toFixed(2)}`).join('%0A')}`;
     window.location.href = whatsappURL;
 });
 
