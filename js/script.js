@@ -1,11 +1,11 @@
 // script.js
 const equipments = [
-    { name: "1 Caixa de Som Ativa [Datrel] 250wrms (Bluetooth)", price: 200 },
-    { name: "1 Caixa de Som Passiva [Datrel] 250wrms", price: 100 },
-    { name: "1 Caixa de Som Sub Grave", price: 250 },
-    { name: "1 Caixa de Som 12 Polegadas + Corneta", price: 250 },
-    { name: "1 Mesa de Som 4 Canais", price: 150 },
-    { name: "1 Microfone sem fio (Shure)", price: 100 },
+    { name: "1 Caixa de Som Ativa [Datrel] 250wrms (Bluetooth)", price: 150 },
+    { name: "1 Caixa de Som Passiva [Datrel] 250wrms", price: 75 },
+    { name: "1 Caixa de Som Sub Grave", price: 150 },
+    { name: "1 Caixa de Som 12 Polegadas + Corneta", price: 180 },
+    { name: "1 Mesa de Som 4 Canais", price: 100 },
+    { name: "1 Microfone sem fio (Shure)", price: 50 },
 
     // Adicione mais equipamentos conforme necessário
 ];
